@@ -1,3 +1,7 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/104234924/168174155-960e4be8-86a3-42dc-8852-a6f66bfa3630.gif)
+
+
+
 # fintech_app
 
 A new Flutter project.
