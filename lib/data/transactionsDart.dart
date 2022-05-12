@@ -1,0 +1,87 @@
+// ignore_for_file: file_names, unused_element
+final List transactions = [
+  [
+    "Netflix",
+    "Monthly Sub",
+    "assets/netflix.jpg",
+    15.99,
+    "Nov 9",
+  ],
+  [
+    "Uber",
+    "Morning Ride",
+    "assets/uber.jpg",
+    17.99,
+    "Nov 8",
+  ],
+  [
+    "DropBox",
+    "Monthly Sub",
+    "assets/dropbox.jpg",
+    20.90,
+    "Nov 7",
+  ],
+  [
+    "Youtube",
+    "Monthly Sub",
+    "assets/youtube.png",
+    10.55,
+    "Nov 6",
+  ],
+  [ 
+    "Netflix",
+    "Monthly Sub",
+    "assets/netflix.jpg",
+    15.90,
+    "Nov 9",
+  ],
+  [
+    "Uber",
+    "Morning Ride",
+    "assets/uber.jpg",
+    12.99,
+    "Nov 5",
+  ],
+  [
+    "Netflix",
+    "Monthly Sub",
+    "assets/netflix.jpg",
+    15.99,
+    "Nov 9",
+  ],
+  [
+    "Uber",
+    "Morning Ride",
+    "assets/uber.jpg",
+    17.99,
+    "Nov 8",
+  ],
+  [
+    "DropBox",
+    "Monthly Sub",
+    "assets/dropbox.jpg",
+    20.90,
+    "Nov 7",
+  ],
+  [
+    "Youtube",
+    "Monthly Sub",
+    "assets/youtube.png",
+    10.55,
+    "Nov 6",
+  ],
+  [ 
+    "Netflix",
+    "Monthly Sub",
+    "assets/netflix.jpg",
+    15.90,
+    "Nov 9",
+  ],
+  [
+    "Uber",
+    "Morning Ride",
+    "assets/uber.jpg",
+    12.99,
+    "Nov 5",
+  ]
+];
